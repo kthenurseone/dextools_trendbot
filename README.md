@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtu.be/B6OWFc_dZ2k" target="_blank"><img src="https://github.com/kthenurseone/telegram-message-bot/blob/main/1.png?raw=true"></a></p>
+<p align="center"><a href="https://youtu.be/B6OWFc_dZ2k" target="_blank"><img src="https://github.com/kthenurseone/dextool_trendbot/blob/main/1.png?raw=true"></a></p>
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=plastic" alt="Python version"></a>
@@ -48,9 +48,9 @@ I will help to install the program.
 
 
 ## Images
-![Telegram Message Bot](https://github.com/kthenurseone/telegram-message-bot/blob/main/1.png?raw=true)
-![Telegram Message Bot](https://github.com/kthenurseone/telegram-message-bot/blob/main/2.png?raw=true)
-![Telegram Message Bot](https://github.com/kthenurseone/telegram-message-bot/blob/main/3.png?raw=true)
+![Telegram Message Bot](https://github.com/kthenurseone/dextool_trendbot/blob/main/1.png?raw=true)
+![Telegram Message Bot](https://github.com/kthenurseone/dextool_trendbot/blob/main/2.png?raw=true)
+![Telegram Message Bot](https://github.com/kthenurseone/dextool_trendbot/blob/main/3.png?raw=true)
 
 
 

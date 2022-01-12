@@ -35,6 +35,7 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 - Share at telegram button ✓
 - Share at twitter button ✓
 - Share at reddit button ✓
+- Click at swap button ✓
 
 
 

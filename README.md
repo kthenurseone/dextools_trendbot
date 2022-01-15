@@ -50,9 +50,9 @@ I will help to install the program.
 
 
 ## Images
-![Telegram Message Bot](https://github.com/kthenurseone/dextool_trendbot/blob/main/1.png?raw=true)
-![Telegram Message Bot](https://github.com/kthenurseone/dextool_trendbot/blob/main/2.png?raw=true)
-![Telegram Message Bot](https://github.com/kthenurseone/dextool_trendbot/blob/main/3.png?raw=true)
+![Dextool_Bot](https://github.com/kthenurseone/dextool_trendbot/blob/main/1.png?raw=true)
+![Dextool_Bot](https://github.com/kthenurseone/dextool_trendbot/blob/main/2.png?raw=true)
+![Dextool_Bot](https://github.com/kthenurseone/dextool_trendbot/blob/main/3.png?raw=true)
 
 
 
